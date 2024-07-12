@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me? email to cai.xian316@outlook.com
 - 😄 Pronouns: High creditable developer!!!
-- ⚡ Fun fact: in 6 years ago, I earnt $400 from node.js project by adding 4 letters -"async". So one letter costed $100. 😄😄😄
+- ⚡ Fun fact: in 6 years ago, I got paid $500 from one node.js project by adding 5 letters -"async". So one letter costed $100. 😄😄😄
 
 <!---
 caixian-prog/caixian-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
