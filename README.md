@@ -10,6 +10,7 @@
 - ⚡ Fun fact: in 2018, I got paid $500 from one node.js project by adding 5 letters -"async". So one letter costed $100. 😄😄😄
 
 💻 Tech Stack:
+<br/>
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
