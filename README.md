@@ -35,3 +35,35 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBB2PFEs7kKOE0ioL8TZxf2daTC5BO2op5R5xQcX9bO8 cai.xian316@outlook.com
+
+ssh-keygen -t ed25519 -C "cai.xian316@outlook.com"
+
+paste id_ed25519 and id_ed25519.pub to ~/.ssh
+D:\works\code\chrome extensions\abrar git
+
+chmod 600 ~/.ssh/id_ed25519
+chmod 644 ~/.ssh/id_ed25519.pub
+
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+
+ssh -T git@github.com
+
+
+# login validator
+git clone git@github.com:caixian-prog/dvsa-login-validator.git
+
+# extension
+git clone git@github.com:caixian-prog/dvsa-bot-extension.git
+
+
+
+git checkout dev
+
+
+
+and turn off sleep, and multi tasking!!!
